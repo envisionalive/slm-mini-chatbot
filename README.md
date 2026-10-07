@@ -89,7 +89,3 @@ SLM: Cloud computing is a way to use computing resources...
 5. Replace DistilGPT2 with another small instruction-tuned model.
 6. Add response length and temperature controls.
 
-## Important Note
-
-This is an educational demonstration of local language-model inference.
-It is not intended to compete with modern large instruction-tuned models.
